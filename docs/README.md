@@ -24,7 +24,7 @@ Player-facing systems          Platform systems              Experience & brand
                                - ai-vision.md
                                - first-party-games.md
 
-open-questions.md ... decisions still owned by product (Julie)
+open-questions.md ... decisions still owned by product (PM)
 ```
 
 ## Reading order
@@ -57,6 +57,11 @@ open-questions.md ... decisions still owned by product (Julie)
 | [room-experience.md](./room-experience.md) | Lobby → in-game → results |
 | [design-language.md](./design-language.md) | The Gatherd design system (locked shell + game theme) |
 | [open-questions.md](./open-questions.md) | Decisions for product |
+| [pm-onboarding-brief.md](./pm-onboarding-brief.md) | Self-contained brief to bootstrap the PM/Architect chat |
+| [decisions/](./decisions/) | ADR-lite decision log (durable team memory) |
+
+> Team & collaboration model (roles, decision rights, how the two AI chats communicate):
+> see [`../TEAM.md`](../TEAM.md).
 
 ## Conventions used in these docs
 

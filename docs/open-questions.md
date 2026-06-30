@@ -1,4 +1,4 @@
-# Open Questions (for Product / Julie)
+# Open Questions (for Product / PM)
 
 Decisions that are **product calls, not engineering calls** — consolidated from every design doc so they
 can be answered in one pass. Per the working agreement, anything marked **⚠ ask-before-build** could
@@ -40,7 +40,7 @@ Each entry notes where it bites and a recommended default (mine, as Lead Enginee
 
 ## Design / brand
 18. **Brand specifics** — final palette, typeface, logo, mascot/world. *(design-language.md,
-    first-party-games.md)* _Rec: I propose a starter system; Julie refines._
+    first-party-games.md)* _Rec: I propose a starter system; PM refines._
 19. **Light theme** at launch or dark-first only? *(design-language.md)* _Rec: dark-first only at launch._
 
 ## Memories, seasonal, AI (later systems, early hooks)
@@ -62,5 +62,5 @@ Each entry notes where it bites and a recommended default (mine, as Lead Enginee
 
 - Items **without ⚠** have a recommended default; if you're happy with the default, we proceed and you
   needn't decide now.
-- Items **with ⚠** should be discussed (with Julie) before the related work starts — a short conversation
+- Items **with ⚠** should be discussed (with the PM) before the related work starts — a short conversation
   now beats a refactor later.

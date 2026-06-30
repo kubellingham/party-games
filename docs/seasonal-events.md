@@ -75,7 +75,7 @@ entitlements emit `entitlement.expired` when the window closes.
 
 - Cadence and ambition of the first seasons (drives how much tooling is worth building first).
 - Are seasonal rewards ever exclusive-forever (FOMO) vs returning each year? (player goodwill vs urgency)
-- Who authors/schedules seasons (founder/Julie now; a tool later)?
+- Who authors/schedules seasons (founder/PM now; a tool later)?
 
 ## Build-now vs later
 

@@ -114,7 +114,7 @@ guidelines live with the components so text feels Gatherd too.
 
 ## Open questions (→ `open-questions.md`)
 
-- Brand specifics: final palette, typeface, logo, mascot? (assumed: propose from scratch, Julie refines.)
+- Brand specifics: final palette, typeface, logo, mascot? (assumed: propose from scratch, PM refines.)
 - Do we want a light theme at launch or dark-first only?
 - Is artwork (Layer 2) ever animated/illustrative-heavy enough to need an asset-performance budget?
 

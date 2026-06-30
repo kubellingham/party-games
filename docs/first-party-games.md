@@ -57,7 +57,7 @@ These are noted so the engine evolves deliberately toward supporting originals, 
 
 - Original characters/worlds are Gatherd IP — name, art, and tone should be coherent with the design
   language and tone of voice (`design-language.md`).
-- Brand/IP decisions (mascot, flagship concept) are **product/founder + Julie** calls, captured in
+- Brand/IP decisions (mascot, flagship concept) are **product/founder + PM** calls, captured in
   `open-questions.md`.
 
 ## Open questions (→ `open-questions.md`)
